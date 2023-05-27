@@ -9,5 +9,7 @@ package com.conan.git;
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("hello git test");
+        System.out.println("hello git test1");
+        System.out.println("hello git test2");
     }
 }
